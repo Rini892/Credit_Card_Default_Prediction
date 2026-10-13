@@ -267,17 +267,6 @@ Open `Credit_Default_Prediction.ipynb` and run all the cells.
 
 ---
 
-## Team Members
-
-| Team Member | Contribution |
-|-------------|--------------|
-| **Gokul V S** | Performed dataset understanding, initial Exploratory Data Analysis (EDA) and Data Cleaning. Implemented the **K-Nearest Neighbors (KNN)** classifier, performed cross-validation, hyperparameter tuning (GridSearchCV and RandomizedSearchCV), applied suitable ensemble techniques, and participated in final model comparison. |
-| **Devadeth B** | Executed Outlier Analysis, Bivariate Analysis, and visualization. Implemented the **Decision Tree** classifier, performed cross-validation, hyperparameter tuning, applied suitable ensemble techniques, developed the project's final **Artificial Neural Network (ANN)** model, and participated in final model comparison. |
-| **Kanchana Krishna** | Applied Correlation analysis, Mutual Information feature selection, and feature analysis. Implemented the **Logistic Regression** classifier, performed cross-validation, hyperparameter tuning, applied suitable ensemble techniques, and participated in final model comparison. |
-| **Rinimol R** | Completed Feature preprocessing, Scaling, documentation, and README preparation. Implemented the **Support Vector Machine (SVM)** classifier, performed cross-validation, hyperparameter tuning, applied suitable ensemble techniques, and participated in final model comparison. |
-
----
-
 ## Expected Outcome
 
 Build, optimize, and evaluate multiple machine learning models for credit card default prediction, and compare their performance to identify the most effective classification approach.
